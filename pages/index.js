@@ -145,7 +145,7 @@ export default function Home() {
             </select>
           </label>
           <label>
-            <p>Array length</p>
+            <p>Array from random integers length</p>
             <input
               type="number"
               min={0}
